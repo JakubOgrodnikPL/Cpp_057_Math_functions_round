@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658346823 source:c:\users\jakub\documents\programowanie\c++\057_math_functions_round\main.cpp
+	<iostream>
+	<cmath>
+
